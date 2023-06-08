@@ -1,0 +1,2 @@
+com/DefaultCompany/Tubes/BuildConfig.java
+ com.DefaultCompany.Tubes.BuildConfig
